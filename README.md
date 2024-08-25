@@ -2,6 +2,7 @@
 ## Project Overview
 This project was undertaken for Artemis Financial, a client seeking to enhance the security of their software systems. The primary objective was to identify and mitigate software security vulnerabilities, ensuring the robustness and integrity of their application.
 Client: Artemis Financial, a financial services firm specializing in investment management and advisory services.
+Project Files: [HERE](https://github.com/mubeenkh4u/CS-305-Artemis-Financial-Security-Enhancement-Project/tree/main/Project-Files)
 ## Software Requirements:
   * Secure communication channels between clients and servers.
   * Implementation of robust cryptographic methods to safeguard sensitive data.
@@ -28,7 +29,7 @@ Verification of Security Enhancements: Static and dynamic testing methodologies 
 **Future Application:** These tools and practices will be instrumental in future projects, ensuring that security is integrated into every phase of software development. The use of automated testing and dependency management tools will help maintain code quality and security over time.
 ## Showcasing Work to Employers
 Demonstrating Skills and Knowledge: For future employers, I can showcase the following from this project:
-•	Secure Coding Practices: Demonstrating the implementation of input validation, secure cryptographic methods, and secure communication channels.
-•	Vulnerability Assessment and Mitigation: Illustrating the process of identifying and mitigating software vulnerabilities.
-•	Automated Testing and Continuous Integration: Highlighting the use of automated tools to ensure code integrity and security throughout the development lifecycle.
+ •	Secure Coding Practices: Demonstrating the implementation of input validation, secure cryptographic methods, and secure communication channels.
+ •	Vulnerability Assessment and Mitigation: Illustrating the process of identifying and mitigating software vulnerabilities.
+ •	Automated Testing and Continuous Integration: Highlighting the use of automated tools to ensure code integrity and security throughout the development lifecycle.
 This project not only strengthened the security of Artemis Financial’s software but also solidified my expertise in secure software development, making it a strong addition to my professional portfolio.
