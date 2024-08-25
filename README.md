@@ -1,8 +1,8 @@
 # Artemis-Financial-Security-Enhancement-Project
 ## Project Overview
 This project was undertaken for Artemis Financial, a client seeking to enhance the security of their software systems. The primary objective was to identify and mitigate software security vulnerabilities, ensuring the robustness and integrity of their application.
-Client: Artemis Financial, a financial services firm specializing in investment management and advisory services.
-Project Files: [HERE](https://github.com/mubeenkh4u/CS-305-Artemis-Financial-Security-Enhancement-Project/tree/main/Project-Files)
+ * Client: Artemis Financial, a financial services firm specializing in investment management and advisory services.
+ * Project Files: [HERE](https://github.com/mubeenkh4u/CS-305-Artemis-Financial-Security-Enhancement-Project/tree/main/Project-Files)
 ## Software Requirements:
   * Secure communication channels between clients and servers.
   * Implementation of robust cryptographic methods to safeguard sensitive data.
